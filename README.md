@@ -8,10 +8,10 @@ Profissional com **25 anos de experiência em TI**, especializado em automação
 
 ## 💼 Experiência Profissional
 
+- ☁️ **DevOps/SRE** focado em AWS, Azure DevOps e arquiteturas de (microserviços na Meta Inc e Infosys)
 - 🏦 **Montagem de equipes de TI** no ICBC (Maior banco do mundo)
-- 🏛️ **Gestor de Sistemas Críticos** (SEI e SISCT) nos Ministérios da Justiça e Cidadania
-- 🎯 **N2/N3 Support** com atendimento VIP por 4 anos
-- ☁️ **DevOps/SRE** focado em AWS, Azure DevOps e arquiteturas de microserviços
+- 🏛️ **Gestor de Sistemas Críticos** no Banco BBVA.
+- 🎯 **N2/N3 Support** por mais de 8 anos no Banco HSBC.
 
 ---
 
@@ -23,9 +23,9 @@ Profissional com **25 anos de experiência em TI**, especializado em automação
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 **AWS Services:**
-- EC2, S3, Lambda, CloudWatch
-- Auto Scaling (Vertical & Horizontal)
-- Lifecycle Management & Cost Optimization
+- EC2, S3, Lambda, CloudWatch.
+- Auto Scaling (Vertical & Horizontal).
+- Lifecycle Management & Cost Optimization.
 
 ### Container & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,7 +35,7 @@ Profissional com **25 anos de experiência em TI**, especializado em automação
 - EKS (AWS) & AKS (Azure)
 - Deployments, Services, Ingress, ConfigMaps, Secrets
 - HPA (Horizontal Pod Autoscaler)
-- Monitoring com Prometheus & Grafana
+- Monitoring com Datalog & Grafana.
 
 ### CI/CD & Automation
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -43,7 +43,7 @@ Profissional com **25 anos de experiência em TI**, especializado em automação
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 **Pipelines:**
-- Migração TFS → Azure DevOps
+- Migração TFS on-premise → Azure DevOps
 - Build & Release Pipelines (DEV/HML/PRD)
 - Automação de deploys com Docker + Kubernetes
 - Tasks customizadas e templates reutilizáveis
@@ -52,10 +52,10 @@ Profissional com **25 anos de experiência em TI**, especializado em automação
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-- Provisionamento de infraestrutura cloud
-- Padronização e automação de VMs
-- Configuration Management
-- Idempotência e versionamento
+- Provisionamento de infraestrutura cloud.
+- Padronização e automação de VMs.
+- Configuration Management.
+- versionamento.
 
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -103,6 +103,7 @@ Profissional com **25 anos de experiência em TI**, especializado em automação
 🎓 **Gestão de Tecnologia da Informação**
 
 🏆 **Certificações em andamento:**
+-  Microsoft Certified: Azure Administrator Associate.
 -  AWS Certified Cloud Practitioner.
 -  Microsoft Certified: Azure Fundamentals.
 -  Microsoft Certified: Security, Compliance, and Identity Fundamentals.
@@ -119,11 +120,6 @@ Profissional com **25 anos de experiência em TI**, especializado em automação
 - ✅ **Security by Design:** Hardening, Least Privilege, Compliance.
 
 ---
-
-## 💡 Filosofia de Trabalho
-
-> "Se fiz duas vezes manualmente, automatizo na terceira."
-
 Acredito que **automação, padronização e documentação** são os pilares para operações escaláveis e confiáveis. Meu objetivo é construir sistemas que sejam:
 
 - 🔄 **Resilientes:** Auto-recovery e alta disponibilidade
