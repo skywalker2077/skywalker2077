@@ -10,10 +10,10 @@ Professional with **over 25 years of IT experience**, specialized in infrastruct
 
 | | Role | Company |
 |---|---|---|
-| ☁️ | **DevOps / SRE** — AWS, Azure DevOps & microservices architectures | Meta Inc & Infosys |
-| 🏦 | **IT Team Builder** — built and scaled engineering teams | ICBC (World's Largest Bank) |
-| 🏛️ | **Critical Systems Manager** | BBVA Bank |
-| 🎯 | **N2/N3 Support** — 8+ years of senior technical support | HSBC Bank |
+| ☁️ | **DevOps / SRE** - AWS, Azure DevOps & microservices architectures | Avanade, Meta Inc & Infosys.
+| 🏦 | **IT Team Builder** - 8+ years experience built and scaled engineering teams | ICBC (World's Largest Bank).
+| 🏛️ | **Critical Systems Manager** | BBVA Bank.
+| 🎯 | **N2/N3 Support** - 10+ years of senior technical support | HSBC Bank.
 
 ---
 
