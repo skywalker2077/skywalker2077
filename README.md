@@ -2,7 +2,7 @@
 
 ## 🚀 DevOps Engineer | SRE | IAM Engineering
 
-Profissional com **25 anos de experiência em TI**, especializado em automação de infraestrutura, CI/CD e arquiteturas cloud-native. Apaixonado por transformar processos manuais em soluções automatizadas e escaláveis.
+Profissional com **Com mais de 25 anos de experiência em TI**, especializado em automação de infraestrutura, CI/CD e arquiteturas cloud-native. Apaixonado por transformar processos manuais em soluções automatizadas e escaláveis.
 
 ---
 
